@@ -1,5 +1,7 @@
 {
   "name": "lsuapp",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "vue-vite"
 }
