@@ -1,0 +1,225 @@
+{
+  "categoryOptions": [
+    "Accounts",
+    "Bell System",
+    "CCTV",
+    "Computer Lab",
+    "Hardware",
+    "LSU Webpages",
+    "Network",
+    "Others",
+    "Software",
+    "Student Portal"
+  ],
+  "itemTypeOptionsMap": {
+    "Hardware": [
+      "Laptop",
+      "Desktop",
+      "Printer",
+      "Scanner",
+      "Monitor",
+      "Keyboard",
+      "Mouse",
+      "Projector",
+      "Webcam",
+      "Headset",
+      "Speaker",
+      "Microphone",
+      "External Hard Drive",
+      "USB Flash Drive",
+      "Power Supply",
+      "Motherboard",
+      "RAM",
+      "Graphics Card",
+      "CPU",
+      "Cooling Fan",
+      "Others"
+    ],
+    "Software": [
+      "Installation",
+      "Repair",
+      "Uninstall"
+    ],
+    "Network": [
+      "WiFi Access",
+      "Network Configuration"
+    ],
+    "Computer Lab": [
+      "Computer Setup",
+      "Software Installation",
+      "Hardware Issue",
+      "Network Connectivity",
+      "Maintenance",
+      "Others"
+    ],
+    "Accounts": [
+      "LSU Gmail",
+      "Canvas",
+      "Microsoft",
+      "Student Portal",
+      "Others"
+    ],
+    "CCTV": [
+      "Installation",
+      "Maintenance",
+      "Download Recordings",
+      "Troubleshoot"
+    ],
+    "LSU Webpages": [
+      "Add New Feature",
+      "Add New Functionality",
+      "Remove Feature",
+      "Remove Functionality",
+      "Update Feature",
+      "Update Functionality",
+      "Improve User Interface",
+      "Improve User Experience",
+      "Update Content",
+      "Fix Errors",
+      "Add New Page",
+      "Remove Page",
+      "Delete Article or Content",
+      "Add Article or Content",
+      "Update Article or Content",
+      "Quality Assurance Testing",
+      "Others"
+    ],
+    "Bell System": [
+      "Bell System Setup",
+      "Bell System Maintenance",
+      "Bell System Add Music",
+      "Bell System Update Music",
+      "Bell System Delete Music"
+    ],
+    "Student Portal": [
+      "Forgot Password",
+      "Others"
+    ],
+    "Others": [
+      "Screwdriver Set",
+      "Cable Ties",
+      "Thermal Paste",
+      "Cleaning Kit",
+      "Cable Tester",
+      "Crimping Tool",
+      "Anti-static Wrist Strap",
+      "Compressed Air",
+      "HDMI Cable",
+      "VGA Cable",
+      "Ethernet Cable",
+      "USB Cable",
+      "Power Cable",
+      "Extension Cord",
+      "Others"
+    ]
+  },
+  "computerLabLocations": {
+    "BVM and SJ Buildings": [
+      "BVM 4F Computer Lab",
+      "BVM 2F Computer Lab",
+      "SJ Computer Lab"
+    ],
+    "LS Building": [
+      "SC203 - Tesda",
+      "LS209 - Maclab",
+      "LS211 - Networking",
+      "LS212 - Programming",
+      "LS213 - Multimedia",
+      "LS215 - Openlab"
+    ]
+  },
+  "centerOfficeRoomOptions": [
+    "Accounting Office",
+    "Campus Development",
+    "General Services Office",
+    "Human Resource and Development",
+    "Office of the Chancellor",
+    "Office of the President",
+    "Registrar's Office",
+    "Research Office",
+    "Corporate and Executive Management Center",
+    "Vice Chancellor for Academics Affairs",
+    "Vice President for Planning and Strategic Services",
+    "Vice President for Finance and Accounting Services",
+    "Vice President for Administrative Services",
+    "Vice President for Lasallian Mission Services",
+    "Vice President for Advancement and Linkages Services",
+    "Lasallian Mission Center",
+    "Learning Resource Center",
+    "College of Arts and Sciences",
+    "College of Business and Accountancy",
+    "College of Criminal Justice Education",
+    "College of Computer Studies, Engineering, and Architecture",
+    "College of Teacher Education",
+    "College of Tourism and Hospitality Management",
+    "College of Nursing",
+    "School of Graduate Studies",
+    "Network Programs and Computerization Center",
+    "N/A",
+    "OTHER"
+  ],
+  "semesterOptions": [
+    "First Semester",
+    "Second Semester",
+    "Summer"
+  ],
+  "statusOptions": [
+    "New",
+    "Used",
+    "For Repair",
+    "For Disposal",
+    "Returned",
+    "Issued",
+    "Replaced",
+    "Condemned",
+    "Serviceable",
+    "Unserviceable",
+    "Running"
+  ],
+  "techniciansPersonnel": [
+    {
+      "name": "Michael John Puertogalera",
+      "email": "michaeljohn.puertogalera@lsu.edu.ph",
+      "specializations": ["Accounts", "Software"],
+      "role": "Accounts / Software"
+    },
+    {
+      "name": "Jason Yap",
+      "email": "jason.yap@lsu.edu.ph",
+      "specializations": ["Network", "Accounts", "Software"],
+      "role": "Network / Accounts / Software"
+    },
+    {
+      "name": "Flourence John Gonzaga",
+      "email": "johny14_gonzaga@lsu.edu.ph",
+      "specializations": ["Network", "Accounts", "Software"],
+      "role": "Network / Accounts / Software"
+    },
+    {
+      "name": "Denzel Roy Suarez",
+      "email": "denzelroy.suarez@lsu.edu.ph",
+      "specializations": ["Computer Lab"],
+      "location": "BVM and SJ Buildings",
+      "role": "Computer Laboratory: BVM and SJ Buildings Rooms"
+    },
+    {
+      "name": "Rommel Rosal",
+      "email": "rommel.rosal@lsu.edu.ph",
+      "specializations": ["Computer Lab"],
+      "location": "LS Building",
+      "role": "Computer Laboratory: LS Building Rooms"
+    },
+    {
+      "name": "Giovanni Jose Morales",
+      "email": "giovanni.morales@lsu.edu.ph",
+      "specializations": ["Hardware"],
+      "role": "PC and Printers and Other Hardwares - Whole LSU Campus Admins and Staffs"
+    },
+    {
+      "name": "Jo Renlee Luna",
+      "email": "jorenlee.luna@lsu.edu.ph",
+      "specializations": ["Software"],
+      "role": "LSU Website"
+    }
+  ]
+}
